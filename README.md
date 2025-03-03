@@ -2,8 +2,10 @@
   <img src="shoumik.svg" />
 </h1>
 
-## Hey! 👋
-I'm Shoumik Islam, a 19 years old Competitive programmer & CSE undergrad from Bangladesh.
+<div>
+  ## Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  I'm Shoumik Islam, a 19 years old Competitive programmer & CSE undergrad from Bangladesh.
+</div>
 
 - 🦔 Co-Founder of [CodeForge BD](https://www.youtube.com/@CodeforgeBD-y3k)
 
