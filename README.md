@@ -3,10 +3,12 @@
 </h1>
 
 <div>
-  <h2> Hey! 
+    <h2> Hey! 
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRpd2JpZzY4ODNpYjVvOTY2bXp5N3B3cnJmZ3I3bTBmaWdpNXd6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wj7lNjMNDxSmc/giphy.gif" width="50"><br>
+    </h2>
+   <h3>
     I'm Shoumik Islam, a 19 years old Competitive programmer & CSE undergrad from Bangladesh.
-  </h2>
+  </h3>
 </div>
 
 - 🦔 Co-Founder of [CodeForge BD](https://www.youtube.com/@CodeforgeBD-y3k)
