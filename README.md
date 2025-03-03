@@ -5,7 +5,7 @@
 <div align="center">
     <h2 style="text-align: center;">
         <span style="vertical-align: middle;">Hey!</span>
-        <img src="https://media.tenor.com/mZ1nbBrTzEUAAAAi/blukittie-blu.gif" width="50" height="30" ;">
+        <img src="https://media.tenor.com/mZ1nbBrTzEUAAAAi/blukittie-blu.gif" width="50" height="30" ">
         <br>
         I'm Shoumik Islam, a 19 years old Competitive programmer & CSE undergrad from Bangladesh.
     </h2>
