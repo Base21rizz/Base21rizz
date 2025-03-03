@@ -36,10 +36,27 @@
 - Graduating in CSE
 - Be the best version of myself
 
-## Contact
-- [@Shoumik Islam](https://www.facebook.com/shoumik.islam.288681/) on Facebook
-- [@Shoumik Islam](https://www.linkedin.com/in/shoumik-islam-bb62b5345/) on Linkedin
-- [@Shoumik Islam](https://x.com/bruh___shoumik) on X/Twitter
-- [@Shoumik Islam](https://discordapp.com/users/shoumik_islam) on Discord
-- [@Shoumik_Islam](https://codeforces.com/profile/Shoumik_Islam) on Codeforces
+<div>
+  <h2>Contact</h2>
+<p>
+    <a href="https://www.facebook.com/shoumik.islam.288681/" target="_blank" style="text-decoration: none;">
+        <img src="https://cdn-icons-png.flaticon.com/128/3670/3670032.png" width="50" height="50" alt="Facebook">
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/shoumik-islam-bb62b5345/" target="_blank" style="text-decoration: none;">
+        <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" width="50" height="50" alt="Linkedin">
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://x.com/bruh___shoumik" target="_blank" style="text-decoration: none;">
+        <img src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" width="50" height="50" alt="X/Twitter">
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://discordapp.com/users/shoumik_islam" target="_blank" style="text-decoration: none;">
+        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" width="50" height="50" alt="Discord">
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://codeforces.com/profile/Shoumik_Islam" target="_blank" style="text-decoration: none;">
+        <img src="https://img.icons8.com/?size=80&id=jldAN67IAsrW&format=png" width="50" height="50" alt="Codeforces">
+    </a>
+</p>
+
+
+</div>
+
 
