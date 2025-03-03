@@ -3,11 +3,14 @@
 </h1>
 
 <div align="center">
-    <h2 align="center> Hey! 
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRpd2JpZzY4ODNpYjVvOTY2bXp5N3B3cnJmZ3I3bTBmaWdpNXd6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wj7lNjMNDxSmc/giphy.gif" width="50"><br>
-    I'm Shoumik Islam, a 19 years old Competitive programmer & CSE undergrad from Bangladesh.
-  </h2>
+    <h2 style="text-align: center;">
+        <span style="vertical-align: middle;">Hey!</span>
+        <img src="https://media.tenor.com/mZ1nbBrTzEUAAAAi/blukittie-blu.gif" width="50" height="30" ;">
+        <br>
+        I'm Shoumik Islam, a 19 years old Competitive programmer & CSE undergrad from Bangladesh.
+    </h2>
 </div>
+
 
 - 🦔 Co-Founder of [CodeForge BD](https://www.youtube.com/@CodeforgeBD-y3k)
 
@@ -18,8 +21,8 @@
 - 👥 Core team member at FortuneVentures 
 
 + a lot more ;)
-
-## Skills
+  
+## <span style=" color: #663399"> Skills </span>
 - 👨‍💻 HTML
 - ⚙️ CSS
 - 👁️ C
