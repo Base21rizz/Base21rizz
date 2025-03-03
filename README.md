@@ -2,7 +2,7 @@
   <img src="shoumik.svg" />
 </h1>
 
-<div>
+<div align="center">
     <h2> Hey! 
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRpd2JpZzY4ODNpYjVvOTY2bXp5N3B3cnJmZ3I3bTBmaWdpNXd6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wj7lNjMNDxSmc/giphy.gif" width="50"><br>
     </h2>
