@@ -3,26 +3,36 @@
 </h1>
 
 ## Hey! 👋
-I'm Shoumik Islam, a 19 years old web developer from Bangladesh.
+I'm Shoumik Islam, a 19 years old Competitive programmer & CSE undergrad from Bangladesh.
 
-- 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet
+- 🦔 Co-Founder of [CodeForge BD](https://www.youtube.com/@CodeforgeBD-y3k)
 
-- 👨‍💻 Working at [Community Labs](https://communitylabs.com) ([We raised $30M!](https://www.bloomberg.com/news/articles/2022-09-08/teenage-founder-raises-30-million-for-crypto-startup-community-labs?utm_medium=email&utm_source=newsletter&utm_term=220908&utm_campaign=author_22684653#xj4y7vzkg&leadSource=uverify%20wall))
+- 👨‍💻 Studying at [Metropolitan University](https://www.metrouni.edu.bd/)
 
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
+- 🧭 Co-Founder at MUCP- A free proggramming training session provider | Programming Contest Manager (powered by codeforge)
 
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
+- 👥 Core team member at FortuneVentures 
 
 + a lot more ;)
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, Lua, C, Go, PHP, C#, etc...
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
-+ a lot more :D
+- 👨‍💻 HTML
+- ⚙️ CSS
+- 👁️ C
+- 💽 CPP
+
+## Future Targets
+- Get a rating of 1900+ in Codeforces
+- Solving 1000+ problems
+- Completing DSA
+- Playing ICPC world final
+- Graduating in CSE
+- Be the best version of myself
 
 ## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](./) on Discord
+- [@Shoumik Islam](https://www.facebook.com/shoumik.islam.288681/) on Facebook
+- [@Shoumik Islam](https://www.linkedin.com/in/shoumik-islam-bb62b5345/) on Linkedin
+- [@Shoumik Islam](https://x.com/bruh___shoumik) on X/Twitter
+- [@Shoumik Islam](https://discordapp.com/users/shoumik_islam) on Discord
+- [@Shoumik_Islam](https://codeforces.com/profile/Shoumik_Islam) on Codeforces
+
