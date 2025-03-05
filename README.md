@@ -18,7 +18,9 @@
 
 - 🧭 Co-Founder at MUCP- A free proggramming training session provider | Programming Contest Manager (powered by codeforge)
 
-- 👥 Core team member at FortuneVentures 
+- 👥 Core team member at FortuneVentures
+
+- 🖼️ Checkout this preview of my [portfolio website](https://ibb.co.com/wrNsQK6N)
 
 + a lot more ;)
   
