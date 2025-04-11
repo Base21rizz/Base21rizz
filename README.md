@@ -20,7 +20,7 @@
 
 - 👥 Core team member at FortuneVentures
 
-- 🖼️ Checkout my [portfolio website]([https://ibb.co.com/wrNsQK6N](https://shoumikislamportfolio.netlify.app/))
+- 🖼️ Checkout my [portfolio website] ([https://ibb.co.com/wrNsQK6N](https://shoumikislamportfolio.netlify.app/))
 
 + a lot more ;)
   
