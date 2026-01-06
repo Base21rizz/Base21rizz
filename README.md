@@ -22,22 +22,28 @@
 <br/>
 <br/>
 
-### **Having Fun Coding With👨🏽‍💻**
+### **Having Fun With👨🏽‍💻**
 
 <br/>
 <div>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-
-</div>
-<br/>
-<div>
 <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white&padding=8" />
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white&padding=8" />
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white&padding=8" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white&padding=8" />
-
+  
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
+</div>
+<br/>
+<div>
 
 
 > “I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.”— Alan Perlis
