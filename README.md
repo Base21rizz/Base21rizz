@@ -30,7 +30,6 @@
 
 ### **Visitor Count**
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Base21rizz.README)
-![Visitor Count](https://github-readme-stats.vercel.app/api?username=Base21rizz&show_icons=true)
 
 
 </div>
