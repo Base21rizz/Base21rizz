@@ -8,9 +8,7 @@
 <br />
 
 **GIF loading a little slow? You can drink a cup of ☕ first**.
-> My best project ⬇️ done yet
-<br/>
-
+> My best project done yet ➡️
 <a href="https://www.linkedin.com/posts/shoumik-islam-bb62b5345_firstgame-indiedev-gamedevjourney-activity-7358107928693755904-CEW3"
    target="_blank"
    rel="noopener noreferrer"
