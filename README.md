@@ -31,5 +31,13 @@
 ### **Visitor Count**
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Base21rizz.README)
 
+<i>Follow me around the web:</i><br>
 
+<a href="https://www.linkedin.com/in/shoumik-islam-bb62b5345/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/bruh___shoumik/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://x.com/ShoumikIsl16528" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://open.spotify.com/user/31cwl2xnppq4ak4e2yk4g3itszl4?si=8ffcc38ad5bd4b4d" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://shoumikislamportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+
+</div>
 </div>
