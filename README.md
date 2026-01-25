@@ -42,6 +42,9 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
+![raylib](https://img.shields.io/badge/raylib-ffffff?style=flat&logo=raylib&logoColor=000000)
+
+
 </div>
 <br/>
 <div>
