@@ -8,14 +8,14 @@
 <br />
 
 **GIF loading a little slow? You can drink a cup of ☕ first**.
-> My best project done yet ➡️
+> My best project done yet
 <a href="https://www.linkedin.com/posts/shoumik-islam-bb62b5345_firstgame-indiedev-gamedevjourney-activity-7358107928693755904-CEW3"
    target="_blank"
    rel="noopener noreferrer"
    style="display:inline-block;">
   <img
     src="https://img.shields.io/badge/See%20Demo-FF0000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3QgeD0iMiIgeT0iMyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE4IiByeD0iMiIvPjxwb2x5Z29uIHBvaW50cz0iMTAgOCwxNiAxMiwxMCAxNiIvPjwvc3ZnPg=="
-    alt="See Demo"/>
+    alt="See Demo">
 </a>
 
 
