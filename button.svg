@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="28" viewBox="0 0 110 28">
+  <rect width="110" height="28" fill="#FF0000" rx="3"/>
+  
+  <path d="M12 8 L20 14 L12 20 Z" fill="white"/>
+  
+  <text x="30" y="19" font-family="Verdana, sans-serif" font-size="12" font-weight="bold" fill="white">
+    See Demo
+  </text>
+  
+  <rect x="0" y="0" width="110" height="28" fill="url(#shine)" opacity="0.5"/>
+  <defs>
+    <linearGradient id="shine" x1="-100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="rgba(255,255,255,0)" />
+      <stop offset="50%" stop-color="rgba(255,255,255,0.6)" />
+      <stop offset="100%" stop-color="rgba(255,255,255,0)" />
+    </linearGradient>
+  </defs>
+  
+  <animate xlink:href="#shine" attributeName="x1" from="-100%" to="200%" dur="2s" repeatCount="indefinite" />
+  <animate xlink:href="#shine" attributeName="x2" from="0%" to="300%" dur="2s" repeatCount="indefinite" />
+</svg>
