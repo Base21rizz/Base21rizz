@@ -17,12 +17,12 @@
 > My best project done yet
 <table align="center" style="border: none; background: transparent;">
   <tr style="border: none; background: transparent;">
-    <td valign="middle" style="border: none;">
+    <td valign="middle" padding-left="150px" padding-right="150px" style="border: none;" >
       <strong>My best project done yet</strong>
     </td>
     <td valign="middle" style="border: none; padding-top: 6px; padding-bottom: -6px;">
       <a href="https://www.linkedin.com/posts/shoumik-islam-bb62b5345_firstgame-indiedev-gamedevjourney-activity-7358107928693755904-CEW3" target="_blank">
-        <img src="https://img.shields.io/badge/See%20Demo-FF0000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3QgeD0iMiIgeT0iMyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE4IiByeD0iMiIvPjxwb2x5Z29uIHBvaW50cz0iMTAgOCwxNiAxMiwxMCAxNiIvPjwvc3ZnPg==" alt="See Demo">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFxcGpzbTdqYWhjeWVxNWE3aWV5bXowNGk0cXZ6czlzOHU5empjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Y32iVltPTiCgnNQoh/giphy.gif" alt="Click Here"  width = "150px" height = "40px">
       </a>
     </td>
   </tr>
