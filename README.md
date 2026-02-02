@@ -4,7 +4,7 @@
 <div align="center">
 <br/>
 <img src="Base21rizz/shoumik.svg" alt="Here's My Real Name!">
-<img src="Base21rizz/Base21Rizz.gif" alt="Here is a little bit about me!" width = "auto" height = "400px"> 
+<img src="Base21rizz/Intro.gif" alt="Here is a little bit about me!" width = "auto" height = "400px"> 
   
 **GIF loading a little slow? You can drink a cup of ☕ first**.
   
