@@ -18,9 +18,9 @@
 <table align="center" style="border: none; background: transparent;">
   <tr style="border: none; background: transparent;">
     <td valign="middle" padding-left="150px" padding-right="150px" style="border: none;" >
-      <strong>My best project done yet</strong>
+      <h2> My best project done yet </h2>
     </td>
-    <td valign="middle" style="border: none; padding-top: 6px; padding-bottom: -6px;">
+    <td valign="middle" style="border: none; padding-top: 6px;">
       <a href="https://www.linkedin.com/posts/shoumik-islam-bb62b5345_firstgame-indiedev-gamedevjourney-activity-7358107928693755904-CEW3" target="_blank">
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFxcGpzbTdqYWhjeWVxNWE3aWV5bXowNGk0cXZ6czlzOHU5empjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Y32iVltPTiCgnNQoh/giphy.gif" alt="Click Here"  width = "150px" height = "40px">
       </a>
