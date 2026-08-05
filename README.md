@@ -45,7 +45,7 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
 ![raylib](https://img.shields.io/badge/raylib-ffffff?style=flat&logo=raylib&logoColor=000000)
-
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logoColor=white)
 
 </div>
 <br/>
