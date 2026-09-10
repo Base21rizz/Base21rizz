@@ -5,9 +5,9 @@
 <div align="center">
 <br/>
 <img src="Base21rizz/shoumik.svg" alt="Here's My Real Name!">
-<img src="Base21rizz/Intro.gif" alt="Here is a little bit about me!" width = "auto" height = "400px"> 
+<!-- <img src="Base21rizz/Intro.gif" alt="Here is a little bit about me!" width = "auto" height = "400px">  -->
   
-**GIF loading a little slow? You can drink a cup of ☕ first**.
+<!--**GIF loading a little slow? You can drink a cup of ☕ first**. -->
   
 ![](https://github-readme-stats.vercel.app/api?username=Base21rizz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Base21rizz&theme=dark&hide_border=false)
@@ -16,7 +16,6 @@
 <br />
 
 > My best project done yet
-
 <a href="https://www.linkedin.com/posts/shoumik-islam-bb62b5345_firstgame-indiedev-gamedevjourney-activity-7358107928693755904-CEW3" target="_blank">
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFxcGpzbTdqYWhjeWVxNWE3aWV5bXowNGk0cXZ6czlzOHU5empjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Y32iVltPTiCgnNQoh/giphy.gif" alt="Click Here"  width = "150px" height = "40px">
       </a> 
@@ -37,15 +36,18 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-<br>
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=flat&logo=sublime-text&logoColor=important)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
 ![raylib](https://img.shields.io/badge/raylib-ffffff?style=flat&logo=raylib&logoColor=000000)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+<br>
+<!--
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=flat&logo=sublime-text&logoColor=important) -->
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
+
 
 </div>
 <br/>
