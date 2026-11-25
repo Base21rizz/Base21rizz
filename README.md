@@ -15,7 +15,7 @@
 
 <br />
 
-> My best project done yet
+> My best project done yet (INT8 engine)
 <a href="https://github.com/Base21rizz/tensor-infer-int8" target="_blank">
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFxcGpzbTdqYWhjeWVxNWE3aWV5bXowNGk0cXZ6czlzOHU5empjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Y32iVltPTiCgnNQoh/giphy.gif" alt="Click Here"  width = "150px" height = "40px">
       </a> 
